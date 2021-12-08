@@ -1,0 +1,45 @@
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csprojAssemblyReference.cache
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csproj.GenerateResource.cache
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csprojAssemblyReference.cache
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csproj.GenerateResource.cache
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\Desktop\Melih\yedekler\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csprojAssemblyReference.cache
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csproj.GenerateResource.cache
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\source\repos\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csprojAssemblyReference.cache
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csproj.GenerateResource.cache
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\AliCeylan\Desktop\flashbellek\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csprojAssemblyReference.cache
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\kararvermeteknikleri.csproj.GenerateResource.cache
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Berk SAM\Desktop\kararvermeteknikleri_odev_19.12.2019\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
